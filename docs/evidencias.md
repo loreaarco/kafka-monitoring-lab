@@ -1,0 +1,7 @@
+![Productor enviando datos](image.png)
+![Consumidor de RAW](image-1.png)
+![Consumidor de KPIS](image-2.png)
+![Prueba de que se a creado en Mongo BD](image-3.png)
+![Prueba de que se a creado en Mongo BD las dos partes](image-4.png)
+![PKIS](image-5.png)
+![RAW](image-6.png)
